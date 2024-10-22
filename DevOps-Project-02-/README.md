@@ -76,11 +76,3 @@ Login to AWS cloud and create Linux based EC2 instance to complete the below ass
 11. Login to AWS and detach EBS volume to the EC2 Instance and delete the volume and then terminate EC2 instance.
 
 All done? still not confident? repeat the steps!
-
-**Happy Learning!**
-
-# Hit the Star! ⭐
-
-***If you are planning to use this repo for learning, please hit the star. Thanks!***
-
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)
